@@ -1,4 +1,4 @@
-# Summer of Code (SOC) 2025 – In-Depth Learning Report
+# Summer of Code (SOC) 2025 – Learning Report
 
 ## Overview
 
@@ -17,7 +17,7 @@ This report documents, in-depth, all that I have learned through video lectures,
 ### Purpose and Role in My Learning
 Python served as the foundational tool for all subsequent topics I studied. A solid grasp of Python was essential for implementing algorithms, manipulating data, and experimenting with models.
 
-### Detailed Concepts Learned
+### Concepts Learned
 
 #### Basic Syntax and Operations
 - Variables, expressions, and data types (integers, floats, strings, booleans)
@@ -203,23 +203,10 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp
 
 ---
 
-## Future Plans
-
-Based on this experience, I plan to:
-- Dive deeper into **Deep Learning for NLP**, including RNNs and Transformers
-- Learn and use **Hugging Face Transformers** for BERT and GPT-based models
-- Build larger **end-to-end NLP projects** such as resume rankers or document summarizers
-- Start contributing to **open-source** libraries and Kaggle competitions
-
----
-
-## Acknowledgements
+## References
 
 - **Codebasics YouTube Channel**: For clear and hands-on NLP explanations
 - **DeepLearning.AI & Coursera**: For academic rigor and mathematical foundation
-- **SOC Mentors and Peers**: For guidance, motivation, and feedback throughout the program
 
 ---
-
-Thank you for reading this detailed report. This document serves as a comprehensive record of my SOC 2025 journey and learning outcomes.
 
